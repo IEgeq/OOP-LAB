@@ -1,0 +1,15 @@
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\bin\Debug\net10.0\OOPLABYENI2.exe
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\bin\Debug\net10.0\OOPLABYENI2.deps.json
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\bin\Debug\net10.0\OOPLABYENI2.runtimeconfig.json
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\bin\Debug\net10.0\OOPLABYENI2.dll
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\bin\Debug\net10.0\OOPLABYENI2.pdb
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYENI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYENI2.AssemblyInfoInputs.cache
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYENI2.AssemblyInfo.cs
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYENI2.csproj.CoreCompileInputs.cache
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYENI2.dll
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\refint\OOPLABYENI2.dll
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYENI2.pdb
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYENI2.genruntimeconfig.cache
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\ref\OOPLABYENI2.dll
+C:\Users\okili\source\repos\OOPLABYENI2\OOPLABYENI2\obj\Debug\net10.0\OOPLABYE.86127596.Up2Date
